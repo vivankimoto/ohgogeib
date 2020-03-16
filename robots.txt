@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kengaighu.husrevaltinbasak.info/sitemap.xml
